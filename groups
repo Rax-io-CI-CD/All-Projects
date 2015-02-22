@@ -1,0 +1,7 @@
+# UUID                                  	Group Name
+#
+3be490b46b0d32083c1ddb9d9593cc945f86c613	Administrators
+4490e5ca330debc2fe1ac1e009cac24c5f1478ee	Non-Interactive Users
+global:Anonymous-Users                  	Anonymous Users
+global:Project-Owners                   	Project Owners
+global:Registered-Users                 	Registered Users
